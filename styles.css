@@ -10,6 +10,11 @@ header {
   background-color: #c59d33;
   color: #e4dede;
   padding:0 15px 0 15px;
-  border-radius: 10px;
+  border-radius: 8px;
 
+}
+
+main {
+  margin-left: 10dvh;
+  margin-right: auto; 
 }
