@@ -1,0 +1,5 @@
+repositorio de Github:
+https://github.com/JulsMenz/Taller_corte1
+
+despliegue netlifly:
+https://enchanting-klepon-9485f3.netlify.app/
