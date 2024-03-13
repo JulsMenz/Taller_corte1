@@ -35,3 +35,21 @@ main {
 .Hobbies p {
   font-size: 20px;
 }
+
+.contenedor {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; /* Espacio entre las tarjetas */
+}
+
+.tarjeta {
+  background-color: #404f56;
+  border-radius: 8px;
+  padding: 20px;
+  width: 300px; /* Ancho de la tarjeta */
+}
+
+.tarjeta h3 {
+  margin-top: 0;
+}
+
