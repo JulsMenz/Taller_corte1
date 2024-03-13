@@ -39,17 +39,26 @@ main {
 .contenedor {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px; /* Espacio entre las tarjetas */
+  gap: 20px;
 }
 
 .tarjeta {
   background-color: #404f56;
   border-radius: 8px;
   padding: 20px;
-  width: 300px; /* Ancho de la tarjeta */
+  width: 300px;
 }
 
 .tarjeta h3 {
   margin-top: 0;
 }
 
+.tarjeta img {
+  width: 100%;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+
+.tarjeta p {
+  margin-top: 0;
+}
