@@ -50,6 +50,7 @@ main {
 }
 
 .tarjeta h3 {
+  color: #e4dede;
   margin-top: 0;
 }
 
@@ -60,6 +61,7 @@ main {
 }
 
 .tarjeta p {
+  color: #e4dede;
   margin-top: 0;
   font-size: 16px;
 }
