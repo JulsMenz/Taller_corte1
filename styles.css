@@ -61,4 +61,21 @@ main {
 
 .tarjeta p {
   margin-top: 0;
+  font-size: 16px;
+}
+
+.actores {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px; 
+}
+
+.actores img {
+  width: 30%;
+}
+
+.actores p {
+  font-size: 20px;
+  text-align: center;
+  width: 30%;
 }
