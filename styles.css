@@ -24,6 +24,14 @@ main {
 .Hobbies {
   padding: auto;
 }
+.Hobbies H2 {
+  background-color: #c59d33;
+  color: #ffffff;
+  margin: auto;
+  padding:0 15px 0 15px;
+  border-radius: 8px;
+  display: inline-block;
+}
 .Hobbies p {
   font-size: 20px;
 }
